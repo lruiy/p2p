@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="p2p-manager-background:war">
+    <output-path>$PROJECT_DIR$/p2p-manager-background/target</output-path>
+    <root id="archive" name="p2p-manager-background.war">
+      <element id="artifact" artifact-name="p2p-manager-background:war exploded" />
+    </root>
+  </artifact>
+</component>
